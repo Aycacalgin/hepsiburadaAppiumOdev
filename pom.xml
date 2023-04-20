@@ -26,7 +26,7 @@
         <dependency>
             <groupId>com.thoughtworks.gauge</groupId>
             <artifactId>gauge-java</artifactId>
-            <version>0.7.3</version>
+            <version>0.9.1</version>
         </dependency>
         <dependency>
             <groupId>io.appium</groupId>
@@ -40,7 +40,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>

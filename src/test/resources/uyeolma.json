@@ -1,0 +1,41 @@
+[
+  {
+    "key": "uyeolmayadaoturumacmaıkonu",
+    "androidValue": "\t\n/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "uyeolbtn",
+    "androidValue": "\t\n//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+
+    "key": "Email_text",
+    "androidValue": "txtEmail",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+
+  {
+
+    "key": "devametbtn",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+
+    "key": "dogrulamaMailiText",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+]

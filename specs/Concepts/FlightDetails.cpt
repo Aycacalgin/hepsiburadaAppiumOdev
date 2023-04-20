@@ -1,13 +1,13 @@
 Created by testinium on 14.11.2022
 
 This is a concept file with following syntax for each concept.
-# Rastgele bir ucus secilir,economy class secenegine tiklanir
-* "//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.TextView[1]" elementin text degeri bir dizine at
-* "//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.TextView[1]" xpath'li elemente tikla
-* "com.m.qr:id/rvmp_activity_flight_details_select_button" id'li elemente tikla
-* "com.m.qr:id/from_time" li element gorunur olana kadar bekle
+//# Rastgele bir ucus secilir,economy class secenegine tiklanir
+//* "//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.TextView[1]" elementin text degeri bir dizine at
+//* "//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.TextView[1]" xpath'li elemente tikla
+//* "com.m.qr:id/rvmp_activity_flight_details_select_button" id'li elemente tikla
+//* "com.m.qr:id/from_time" li element gorunur olana kadar bekle
 
 
-# Ucus secim ekranindaki ucus saati ile ucus detaylari ekranindaki ucus saati degerinin ayni oldugu kontrol edilir
-* "com.m.qr:id/from_time" id'li elementin text degeri bir dizine at
-* string listenin iki elementinin esit oldugunu kontrol et
+//# Ucus secim ekranindaki ucus saati ile ucus detaylari ekranindaki ucus saati degerinin ayni oldugu kontrol edilir
+//* "com.m.qr:id/from_time" id'li elementin text degeri bir dizine at
+//* string listenin iki elementinin esit oldugunu kontrol et

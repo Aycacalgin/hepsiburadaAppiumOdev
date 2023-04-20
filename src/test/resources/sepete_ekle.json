@@ -1,0 +1,24 @@
+[
+  {
+
+    "key": "sepeteeklemebtn",
+    "androidValue": "(//android.widget.Button[@content-desc=\"Sepete Ekle\"])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepeteeklemebtn2",
+    "androidValue": "com.pozitron.hepsiburada:id/atcb_product_variant",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "sepeteeklemekontrol",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Sepetim, 1 new notification\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+]

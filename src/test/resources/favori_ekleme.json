@@ -1,0 +1,10 @@
+[
+  {
+
+    "key": "favorıeklemebtn",
+    "androidValue": "(//android.widget.CheckBox[@content-desc=\"favoriye ekle\"])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  }
+]

@@ -1,15 +1,47 @@
-Qatar_Airway
+hepsiburada  ---AYÇA ÇALGIN
 =====================
 
-Qatar_Airways
+hepsiburada uye olma
 -------------------------
-* Qatar airways uygulamasi acilir,uygulamanin acildigi kontrol edilir
-* Karsilama ekrani skip secenegi ile gecilir
-* Alt menuden Book tabina gecis yapilir,seyahat tipi olarak One Way secilir
-* Kalkis havaalani olarak "Berlin",varis havaalani olarak "Istanbul" secilir
-* Bugunun tarihi+7 gun olarak bir gidis tarihi secilir,arama butonuna tiklanir
-* Arama alanina tiklanir,ucus secim ekraninin geldigi kontrol edilir
-* Rastgele bir ucus secilir,economy class secenegine tiklanir
-* Ucus secim ekranindaki ucus saati ile ucus detaylari ekranindaki ucus saati degerinin ayni oldugu kontrol edilir
+* hepsiburada  uygulamasi acilir,uygulamanin acildigi kontrol edilir
+* "uyeolmayadaoturumacmaıkonu" xpath'li elemente tikla
+* "2" saniye bekle
+* "uyeolbtn" xpath'li elemente tikla
+* "2" saniye sayfanın yüklenmesini bekle
+* Eposta alanına "ayca.calgin@testinium.com" bilgisini gir
+* "dogrulamaMailiText" xpath'li element gorunur olana kadar bekle
+
+  Basarılı giris yapma
+----------------------
+*"girisyapbtn" xpath'li elemente tikla
+*"txtUserName" id'li elemente <ayca.calgin@testinium.com> text degerini gonder
+*"devametbtn" id'li elemente tikla
+
+Anasayfada bulunan markadan urun aratma
+----
+* "marksSpencer" id'li elemente tikla
+* marks&spencer   urunlerine   <dericeket> degerini gonderme
+
+-----Favorilere ekleme
+-------------
+ * "favorıeklemebtn" xpath'li elemente tikla
+ * "favorıeklemebtn "xpath'li element gorunur olana kadar bekle
+
+
+--Sepete ekleme
+-----------
+ *"sepeteeklemebtn" xpath'li elemente tiklanır
+ *"sepeteeklemebtn" xpath'li element kayıp olana kadar bekle
+
+
+ -----Sepet ekleme onaylanması ve kontrolu
+-----------
+*"sepeteeklemebtn2" id'li elemente tiklanır
+*"sepeteeklemekontrol" li elementin oldugu kontrol edilir
+
+------Odeme sayfasına gitme
+---------------
+*"alısverisitamamlabtn" id'li elemente tiklanır
+*string listenin iki elementinin esit oldugunu kontrol et
 
 
