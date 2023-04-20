@@ -1,0 +1,54 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+#Hesap uye olma ekranı
+* hesabım ikonuna tıkla
+* uye ol butonuna tıkla
+* email bilgisini gir
+* devam et butonuna tıkla
+
+
+# Eposta alanına <eposta> bilgisini girme
+*"txtEmail" id'li elemente <eposta> text degerini gonder
+*"btnSignUpSubmit" id'li elemente tikla
+
+#giris yapma ekranı
+* hesabım ikonuna tıkla
+* giris yap butonuna tıkla
+* email bilgisine gir
+* onayla butonuna tıkla
+
+
+# marks&spencer   urunlerine  <text> degerini gonderme
+* "marksSpencer" id'li elemente <text> text degerini gonder
+*"marksSpencer" li element gorunur olana kadar bekle
+
+#urun detay ekranının görüntülenmesi
+* anasayfada bulunan Marks&Spencer urunune tıkla
+*  marks&spencer   urunlerine  "dericeket" degerini gonderme
+* Rastgele urun seç
+* urun ile ilgili detaylar listelenir
+
+#favorilere ekleme
+*urun detayın altında bulunan favorilere ekle butonuna tıkla
+* urun favorilere eklendi yazısını kontrol et
+*Listelerim kısmında favorilere eklenmiş urunun varlıgı kontrol edilir
+
+#urunu sepete ekleme
+*urun detayın altında bulunan sepete ekle butonuna tıkla
+* urun sepete eklendi yazını kontrol et
+* Sepetim kısmında sepete eklediğimiz ürünün kontrolü yapılır
+
+ #odeme asaması
+ * odeme ekranının acıldıgı kontrol edilir
+ *sepete eklenen urunun fıyatının kontrolu yapılır
+ * alısverisi tamamla butonuna tıklanır
+ * satın aldınız mesajının görünürlüğü kontrol edilir
+
+
+
+
+
+
+
+
